@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xars7
 - 👀 I’m interested in producing music, and making video games
-- 🌱 I’m currently learning GameDevelopment, C#, and DigitalArt
+- 🌱 I’m currently learning Python, and Cybersecurity
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me xars9458@gmail.com
 
